@@ -1,0 +1,32 @@
+
+
+.row
+{
+    display: inline;
+}
+
+.textcola
+{
+    width: 130px;
+}
+
+.textpuntaje
+{
+    width: 50px;
+}
+
+.pregunta{
+    background: #EAEAEA;
+    margin: 100px;
+    width: 300px;
+    margin-top: 45px;
+
+}
+
+.odd{
+    background-color: #CCC;
+}
+
+.even{
+    background-color: #9DA5A4;
+}

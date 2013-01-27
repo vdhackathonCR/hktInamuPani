@@ -1,0 +1,1124 @@
+2013/01/26 17:04:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/cargaPregunta
+---
+2013/01/26 17:06:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/cargaPregunta
+---
+2013/01/26 17:12:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 17:12:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 17:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 17:14:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/cargaPregunta
+---
+2013/01/26 17:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 17:17:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+---
+2013/01/26 17:22:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 17:23:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+---
+2013/01/26 17:24:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+---
+2013/01/26 17:29:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+---
+2013/01/26 17:43:53 [error] [php] Undefined variable: dataProvider (/home/emonge/public_html/hkt/protected/views/pregunta/index.php:15)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(870): PreguntaController->renderFile()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(783): PreguntaController->renderPartial()
+#2 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(133): PreguntaController->render()
+#3 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PreguntaController->runAction()
+#6 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PreguntaController->filterAccessControl()
+#9 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PreguntaController->runActionWithFilters()
+#12 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PreguntaController->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#14 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+in /home/emonge/public_html/hkt/protected/views/pregunta/index.php (15)
+in /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php (133)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 17:43:53 [error] [php] Undefined variable: dataProvider (/home/emonge/public_html/hkt/protected/views/pregunta/index.php:15)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(870): PreguntaController->renderFile()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(783): PreguntaController->renderPartial()
+#2 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(133): PreguntaController->render()
+#3 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PreguntaController->runAction()
+#6 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PreguntaController->filterAccessControl()
+#9 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PreguntaController->runActionWithFilters()
+#12 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PreguntaController->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#14 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+in /home/emonge/public_html/hkt/protected/views/pregunta/index.php (15)
+in /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php (133)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 17:59:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargaPregunta".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargaPregunta')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargaPregunta')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargaP...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargaPregunta
+---
+2013/01/26 18:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cargar".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('cargar')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('cargar')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/cargar')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/cargar
+---
+2013/01/26 18:54:37 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php:157
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php(120): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('test')
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta/test')
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/test
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:03:49 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Pregunta))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Pregunta')
+#8 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(129): CActiveDataProvider->__construct('Pregunta')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:04:11 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Pregunta))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Pregunta')
+#8 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(129): CActiveDataProvider->__construct('Pregunta')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:04:50 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Pregunta))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Pregunta')
+#8 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(129): CActiveDataProvider->__construct('Pregunta')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:05:36 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Pregunta))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Pregunta')
+#8 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(129): CActiveDataProvider->__construct('Pregunta')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:05:58 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Pregunta))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Pregunta')
+#8 /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php(129): CActiveDataProvider->__construct('Pregunta')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PreguntaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('pregunta')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/pregunta
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 19:18:39 [error] [php] Object of class Respuesta could not be converted to string (/home/emonge/public_html/hkt/protected/controllers/PreguntaController.php:182)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PreguntaController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PreguntaController->filterAccessControl()
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PreguntaController->runActionWithFilters()
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PreguntaController->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/test
+in /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php (182)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 19:21:34 [error] [php] print_r() expects at most 2 parameters, 3 given (/home/emonge/public_html/hkt/protected/controllers/PreguntaController.php:182)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PreguntaController->runAction()
+#2 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PreguntaController->filterAccessControl()
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PreguntaController->runActionWithFilters()
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PreguntaController->run()
+#9 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/test
+in /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php (182)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 19:23:52 [error] [php] Invalid argument supplied for foreach() (/home/emonge/public_html/hkt/protected/controllers/PreguntaController.php:182)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PreguntaController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PreguntaController->filterAccessControl()
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PreguntaController->runActionWithFilters()
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PreguntaController->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/pregunta/test
+in /home/emonge/public_html/hkt/protected/controllers/PreguntaController.php (182)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 20:46:13 [error] [php] include(CompruebaAcceso.php): failed to open stream: No such file or directory (/opt/yii-1.1.10.r3566/framework/YiiBase.php:418)
+Stack trace:
+#0 /home/emonge/public_html/hkt/protected/views/layouts/main.php(120): spl_autoload_call()
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#3 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): SiteController->renderFile()
+#4 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate()
+#5 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput()
+#6 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): CContentDecorator->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): SiteController->endWidget()
+#8 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): SiteController->endContent()
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): SiteController->renderFile()
+#12 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): SiteController->render()
+#13 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#15 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#17 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#19 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php
+in /home/emonge/public_html/hkt/protected/views/layouts/main.php (120)
+in /home/emonge/public_html/hkt/protected/views/layouts/column1.php (5)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (32)
+2013/01/26 20:46:13 [error] [php] include(CompruebaAcceso.php): failed to open stream: No such file or directory (/opt/yii-1.1.10.r3566/framework/YiiBase.php:418)
+Stack trace:
+#0 /home/emonge/public_html/hkt/protected/views/layouts/main.php(120): spl_autoload_call()
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#3 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): SiteController->renderFile()
+#4 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate()
+#5 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput()
+#6 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): CContentDecorator->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): SiteController->endWidget()
+#8 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): SiteController->endContent()
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): SiteController->renderFile()
+#12 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): SiteController->render()
+#13 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#15 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#17 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#19 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php
+in /home/emonge/public_html/hkt/protected/views/layouts/main.php (120)
+in /home/emonge/public_html/hkt/protected/views/layouts/column1.php (5)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (32)
+2013/01/26 21:00:47 [error] [php] include(CompruebaAcceso.php): failed to open stream: No such file or directory (/opt/yii-1.1.10.r3566/framework/YiiBase.php:418)
+Stack trace:
+#0 /home/emonge/public_html/hkt/protected/views/layouts/main.php(120): spl_autoload_call()
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#3 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): SiteController->renderFile()
+#4 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate()
+#5 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput()
+#6 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): CContentDecorator->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): SiteController->endWidget()
+#8 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): SiteController->endContent()
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): SiteController->renderFile()
+#12 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): SiteController->render()
+#13 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#15 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#17 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#19 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/
+in /home/emonge/public_html/hkt/protected/views/layouts/main.php (120)
+in /home/emonge/public_html/hkt/protected/views/layouts/column1.php (5)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (32)
+2013/01/26 21:00:47 [error] [php] include(CompruebaAcceso.php): failed to open stream: No such file or directory (/opt/yii-1.1.10.r3566/framework/YiiBase.php:418)
+Stack trace:
+#0 /home/emonge/public_html/hkt/protected/views/layouts/main.php(120): spl_autoload_call()
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#3 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): SiteController->renderFile()
+#4 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate()
+#5 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput()
+#6 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): CContentDecorator->run()
+#7 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): SiteController->endWidget()
+#8 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): SiteController->endContent()
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#11 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): SiteController->renderFile()
+#12 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): SiteController->render()
+#13 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#15 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#17 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#19 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/
+in /home/emonge/public_html/hkt/protected/views/layouts/main.php (120)
+in /home/emonge/public_html/hkt/protected/views/layouts/column1.php (5)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (32)
+2013/01/26 21:06:08 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in /opt/yii-1.1.10.r3566/framework/YiiBase.php:343
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(173): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /home/emonge/public_html/hkt/protected/views/layouts/main.php(52): CBaseController->widget('bootstrap.widge...', Array)
+#4 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#5 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#6 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#7 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#8 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): COutputProcessor->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): CBaseController->endContent()
+#12 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#13 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#15 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): CController->render('index')
+#16 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#19 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#21 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#22 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#23 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/~emonge/hkt/
+HTTP_REFERER=http://localhost/~emonge/
+---
+2013/01/26 21:06:08 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in /opt/yii-1.1.10.r3566/framework/YiiBase.php:343
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(173): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /home/emonge/public_html/hkt/protected/views/layouts/main.php(52): CBaseController->widget('bootstrap.widge...', Array)
+#4 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#5 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#6 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#7 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#8 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): COutputProcessor->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): CBaseController->endContent()
+#12 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#13 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#15 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): CController->render('index')
+#16 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#19 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#21 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#22 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#23 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/~emonge/hkt/
+HTTP_REFERER=http://localhost/~emonge/hkt/
+---
+2013/01/26 21:06:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in /opt/yii-1.1.10.r3566/framework/YiiBase.php:343
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(173): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /home/emonge/public_html/hkt/protected/views/layouts/main.php(52): CBaseController->widget('bootstrap.widge...', Array)
+#4 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#5 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#6 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#7 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#8 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): COutputProcessor->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): CBaseController->endContent()
+#12 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#13 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#15 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): CController->render('index')
+#16 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#19 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#21 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#22 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#23 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/~emonge/hkt/
+HTTP_REFERER=http://localhost/~emonge/
+---
+2013/01/26 21:06:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in /opt/yii-1.1.10.r3566/framework/YiiBase.php:343
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(173): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /home/emonge/public_html/hkt/protected/views/layouts/main.php(52): CBaseController->widget('bootstrap.widge...', Array)
+#4 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#5 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#6 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(77): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#7 /opt/yii-1.1.10.r3566/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#8 /opt/yii-1.1.10.r3566/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#9 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(207): COutputProcessor->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 /home/emonge/public_html/hkt/protected/views/layouts/column1.php(5): CBaseController->endContent()
+#12 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(127): require('/home/emonge/pu...')
+#13 /opt/yii-1.1.10.r3566/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/emonge/pu...', Array, true)
+#14 /opt/yii-1.1.10.r3566/framework/web/CController.php(785): CBaseController->renderFile('/home/emonge/pu...', Array, true)
+#15 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(32): CController->render('index')
+#16 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#19 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#21 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#22 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#23 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/~emonge/hkt/
+HTTP_REFERER=http://localhost/~emonge/hkt/
+---
+2013/01/26 21:29:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "costCentre".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('costCentre')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/costCentre
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 21:34:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "respuestas".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('respuestas')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/respuestas
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 21:34:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "respuestas".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('respuestas')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/respuestas
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/pregunta
+---
+2013/01/26 21:37:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php:157
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php(120): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('admin')
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('respuesta/admin')
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/~emonge/hkt/index.php/respuesta/admin
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/respuesta
+---
+2013/01/26 21:38:02 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php:157
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php(120): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('admin')
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('respuesta/admin')
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/~emonge/hkt/index.php/respuesta/admin
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/respuesta
+---
+2013/01/26 21:44:11 [error] [php] Undefined variable: user (/home/emonge/public_html/hkt/protected/components/UserIdentity.php:35)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/validators/CValidator.php(197): CInlineValidator->validateAttribute()
+#1 /opt/yii-1.1.10.r3566/framework/base/CModel.php(158): CInlineValidator->validate()
+#2 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(88): LoginForm->validate()
+#3 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/site/login
+in /home/emonge/public_html/hkt/protected/components/UserIdentity.php (35)
+in /home/emonge/public_html/hkt/protected/models/LoginForm.php (52)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (88)
+2013/01/26 21:44:36 [error] [php] Trying to get property of non-object (/home/emonge/public_html/hkt/protected/components/UserIdentity.php:35)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/validators/CValidator.php(197): CInlineValidator->validateAttribute()
+#1 /opt/yii-1.1.10.r3566/framework/base/CModel.php(158): CInlineValidator->validate()
+#2 /home/emonge/public_html/hkt/protected/controllers/SiteController.php(88): LoginForm->validate()
+#3 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/site/login
+in /home/emonge/public_html/hkt/protected/components/UserIdentity.php (35)
+in /home/emonge/public_html/hkt/protected/models/LoginForm.php (52)
+in /home/emonge/public_html/hkt/protected/controllers/SiteController.php (88)
+2013/01/26 21:58:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "enduser".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('enduser')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/enduser
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/respuesta
+---
+2013/01/26 22:13:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php:157
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/auth/CAccessControlFilter.php(120): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('admin')
+#8 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('cola/admin')
+#9 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/~emonge/hkt/index.php/cola/admin
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/cola
+---
+2013/01/26 23:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /opt/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('index.php')
+#1 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('index.php')
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('Cuestionario/in...')
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~emonge/hkt/index.php/Cuestionario/index.php
+---
+2013/01/26 23:21:09 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:21:10 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:21:12 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:22:18 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:22:21 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:22:22 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:22:22 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:29:19 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:33:42 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:53)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (53)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:35:43 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:54)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (54)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:37:09 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:54)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (54)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:38:39 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:56)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (56)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:40:35 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:54)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (54)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:41:58 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:54)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (54)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:46:00 [error] [php] Invalid argument supplied for foreach() (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:59)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=8
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (59)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/26 23:51:58 [error] [php] Undefined offset: 0 (/home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php:52)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(287): CuestionarioController->runAction()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CuestionarioController->runActionWithFilters()
+#2 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CuestionarioController->run()
+#3 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/cuestionario/nextQuestion?id=12
+in /home/emonge/public_html/hkt/protected/controllers/CuestionarioController.php (52)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 08:52:23 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[08006] [7] could not connect to server: Connection timed out
+	Is the server running on host "soundwave.als" and accepting
+	TCP/IP connections on port 5432?' in /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /opt/yii-1.1.10.r3566/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /opt/yii-1.1.10.r3566/framework/base/CModule.php(388): CDbConnection->init()
+#3 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /opt/yii-1.1.10.r3566/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Cola))
+#7 /opt/yii-1.1.10.r3566/framework/web/CActiveDataProvider.php(75): CActiveRecord::model('Cola')
+#8 /home/emonge/public_html/hkt/protected/controllers/ColaController.php(130): CActiveDataProvider->__construct('Cola')
+#9 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): ColaController->actionIndex()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#17 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('')
+#19 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('cola')
+#20 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~emonge/hkt/index.php/cola
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php
+---
+2013/01/27 09:26:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "peticion/index".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('peticion/index')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/peticion/index
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/site/login
+---
+2013/01/27 09:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "peticion".' in /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('peticion')
+#1 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~emonge/hkt/index.php/peticion
+---
+2013/01/27 10:25:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42703]: Undefined column: 7 ERROR:  column "pani" does not exist
+LINE 6:   and co.nombre=pani
+                        ^. The SQL statement executed was: select p.id, c.telefono, co.nombre
+		from candidato c, peticion p, peticionxcola pc, cola co
+		where c.id= p.candidato
+		and pc.peticion= p.id
+		and co.id= pc.cola
+		and co.nombre=pani.
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (140)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 10:25:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42703]: Undefined column: 7 ERROR:  column "pani" does not exist
+LINE 6:   and co.nombre=pani
+                        ^. The SQL statement executed was: select p.id, c.telefono, co.nombre
+		from candidato c, peticion p, peticionxcola pc, cola co
+		where c.id= p.candidato
+		and pc.peticion= p.id
+		and co.id= pc.cola
+		and co.nombre=pani' in /opt/yii-1.1.10.r3566/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/db/CDbCommand.php(390): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/emonge/public_html/hkt/protected/controllers/PeticionController.php(140): CDbCommand->queryAll()
+#2 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): PeticionController->actionIndex()
+#3 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#7 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('index')
+#12 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('peticion/index')
+#13 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/emonge/public_html/hkt/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~emonge/hkt/index.php/peticion/index
+HTTP_REFERER=http://localhost/~emonge/hkt/index.php/site/login
+---
+2013/01/27 10:41:47 [error] [php] Undefined variable: i (/home/emonge/public_html/hkt/protected/controllers/PeticionController.php:56)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#2 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PeticionController->runAction()
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PeticionController->filterAccessControl()
+#6 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#7 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PeticionController->runActionWithFilters()
+#9 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PeticionController->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#11 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#12 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/peticion/3
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (56)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 10:42:28 [error] [php] Undefined variable: i (/home/emonge/public_html/hkt/protected/controllers/PeticionController.php:56)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#2 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PeticionController->runAction()
+#3 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#4 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#5 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PeticionController->filterAccessControl()
+#6 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#7 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#8 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PeticionController->runActionWithFilters()
+#9 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PeticionController->run()
+#10 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#11 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#12 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/peticion/3
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (56)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 11:09:42 [error] [php] Undefined variable: dataProvider (/home/emonge/public_html/hkt/protected/views/peticion/view.php:3)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(870): PeticionController->renderFile()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(783): PeticionController->renderPartial()
+#2 /home/emonge/public_html/hkt/protected/controllers/PeticionController.php(64): PeticionController->render()
+#3 unknown(0): PeticionController->actionView()
+#4 /opt/yii-1.1.10.r3566/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#5 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#7 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PeticionController->runAction()
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#10 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PeticionController->filterAccessControl()
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#12 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PeticionController->runActionWithFilters()
+#14 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PeticionController->run()
+#15 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#16 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/peticion/3
+in /home/emonge/public_html/hkt/protected/views/peticion/view.php (3)
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (64)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 11:11:41 [error] [php] Undefined index: pregunta (/home/emonge/public_html/hkt/protected/views/peticion/view.php:7)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(870): PeticionController->renderFile()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(783): PeticionController->renderPartial()
+#2 /home/emonge/public_html/hkt/protected/controllers/PeticionController.php(64): PeticionController->render()
+#3 unknown(0): PeticionController->actionView()
+#4 /opt/yii-1.1.10.r3566/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#5 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#7 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PeticionController->runAction()
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#10 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PeticionController->filterAccessControl()
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#12 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PeticionController->runActionWithFilters()
+#14 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PeticionController->run()
+#15 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#16 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/peticion/3
+in /home/emonge/public_html/hkt/protected/views/peticion/view.php (7)
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (64)
+in /home/emonge/public_html/hkt/index.php (13)
+2013/01/27 11:12:27 [error] [php] Undefined index: pregunta (/home/emonge/public_html/hkt/protected/views/peticion/view.php:8)
+Stack trace:
+#0 /opt/yii-1.1.10.r3566/framework/web/CController.php(870): PeticionController->renderFile()
+#1 /opt/yii-1.1.10.r3566/framework/web/CController.php(783): PeticionController->renderPartial()
+#2 /home/emonge/public_html/hkt/protected/controllers/PeticionController.php(64): PeticionController->render()
+#3 unknown(0): PeticionController->actionView()
+#4 /opt/yii-1.1.10.r3566/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#5 /opt/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 /opt/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams()
+#7 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(134): PeticionController->runAction()
+#8 /opt/yii-1.1.10.r3566/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /opt/yii-1.1.10.r3566/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#10 /opt/yii-1.1.10.r3566/framework/web/filters/CInlineFilter.php(59): PeticionController->filterAccessControl()
+#11 /opt/yii-1.1.10.r3566/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#12 /opt/yii-1.1.10.r3566/framework/web/CController.php(292): CFilterChain->run()
+#13 /opt/yii-1.1.10.r3566/framework/web/CController.php(266): PeticionController->runActionWithFilters()
+#14 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): PeticionController->run()
+#15 /opt/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#16 /opt/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /home/emonge/public_html/hkt/index.php(13): CWebApplication->run()
+REQUEST_URI=/~emonge/hkt/index.php/peticion/3
+in /home/emonge/public_html/hkt/protected/views/peticion/view.php (8)
+in /home/emonge/public_html/hkt/protected/controllers/PeticionController.php (64)
+in /home/emonge/public_html/hkt/index.php (13)
